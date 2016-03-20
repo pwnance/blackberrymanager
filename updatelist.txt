@@ -8,5 +8,5 @@ com.blackberry.tasks|329|https://drive.google.com/uc?export=download&id=0B5LygGa
 com.blackberry.blackberrylauncher|11|https://drive.google.com/uc?export=download&id=0B5LygGa7AHI7aU1ITXNhT2JnMmc
 com.blackberry.passwordkeeper|11|https://drive.google.com/uc?export=download&id=0B5LygGa7AHI7TTE3NlRsQjN0enM
 com.blackberry.universalsearch|11|https://drive.google.com/uc?export=download&id=0B5LygGa7AHI7MW1mYk9VemtwQWc
-com.bbm|1651|https://drive.google.com/uc?export=download&id=0B5LygGa7AHI7WTlyclNOQ1VqeE0
+com.bbm|1651|https://googledrive.com/host/0B5LygGa7AHI7WTlyclNOQ1VqeE0
 cobalt.blackberrymanager|7|https://drive.google.com/uc?export=download&id=FILE_ID
