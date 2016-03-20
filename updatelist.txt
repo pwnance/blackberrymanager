@@ -1,0 +1,12 @@
+com.blackberry.infrastructure:328
+com.blackberry.hub:329
+com.blackberry.keyboard:21
+com.blackberry.calendar:329
+com.blackberry.contacts:329
+com.blackberry.notes:329
+com.blackberry.tasks:329
+com.blackberry.blackberrylauncher:11
+com.blackberry.passwordkeeper:11
+com.blackberry.universalsearch:11
+com.bbm:1651
+cobalt.blackberrymanager:7
