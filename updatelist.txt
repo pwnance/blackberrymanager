@@ -9,5 +9,5 @@ com.blackberry.blackberrylauncher|11|https://onedrive.live.com/download?resid=2D
 com.blackberry.passwordkeeper|11|https://onedrive.live.com/download?resid=2DF3A6C17BCEDC5!790&authkey=!AAPDoo3SHqWCrfw&ithint=file%2capk
 com.blackberry.universalsearch|11|https://onedrive.live.com/download?resid=2DF3A6C17BCEDC5!789&authkey=!AGt0Iv-U_-ZhmoA&ithint=file%2capk
 com.bbm|1651|https://onedrive.live.com/download?resid=2DF3A6C17BCEDC5!780&authkey=!AMPHki3cdUoePN0&ithint=file%2capk
-cobalt.blackberrymanager|7|
+cobalt.blackberrymanager|7|https://
 
