@@ -6,3 +6,4 @@ Features of Blackberry Manager:
 * Update your installed patched apps
 * Configure permissions (long press an item)
  
+http://cobalt232.github.io/blackberrymanager/
