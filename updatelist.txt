@@ -4,7 +4,7 @@ com.blackberry.calendar|329|https://onedrive.live.com/download?resid=2DF3A6C17BC
 com.blackberry.contacts|329|https://onedrive.live.com/download?resid=2DF3A6C17BCEDC5!785&authkey=!ANYtWGa2FEx46E4&ithint=file%2capk
 com.blackberry.hub|329|https://onedrive.live.com/download?resid=2DF3A6C17BCEDC5!784&authkey=!AOnkjlxel8MwKoQ&ithint=file%2capk
 com.blackberry.infrastructure|330|https://onedrive.live.com/download?resid=2DF3A6C17BCEDC5!791&authkey=!AJXXAMiWXv-QVM8&ithint=file%2capk
-com.blackberry.keyboard|21|https://onedrive.live.com/download?resid=2DF3A6C17BCEDC5!788&authkey=!AAkWDC9zcljv1HM&ithint=file%2capk
+com.blackberry.keyboard|24|https://onedrive.live.com/download?resid=2DF3A6C17BCEDC5!794&authkey=!ABtQE3Tkvq2ajBY&ithint=file%2capk
 com.blackberry.notes|329|https://onedrive.live.com/download?resid=2DF3A6C17BCEDC5!787&authkey=!ABcpVI1PHN-I5IU&ithint=file%2capk
 com.blackberry.passwordkeeper|11|https://onedrive.live.com/download?resid=2DF3A6C17BCEDC5!790&authkey=!AAPDoo3SHqWCrfw&ithint=file%2capk
 com.blackberry.tasks|329|https://onedrive.live.com/download?resid=2DF3A6C17BCEDC5!781&authkey=!ADbGYxTzzoDohtA&ithint=file%2capk
