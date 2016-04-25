@@ -1,5 +1,5 @@
 com.bbm|1766|https://onedrive.live.com/download?resid=2DF3A6C17BCEDC5!793&authkey=!AD7yV_lwh19RYb0&ithint=file%2capk
-com.blackberry.blackberrylauncher|11|https://onedrive.live.com/download?resid=2DF3A6C17BCEDC5!782&authkey=!AGM-amQm97OSdbU&ithint=file%2capk
+com.blackberry.blackberrylauncher|15|https://onedrive.live.com/download?resid=2DF3A6C17BCEDC5!795&authkey=!ACHuNcRzGhZ-4JA&ithint=file%2capk
 com.blackberry.calendar|329|https://onedrive.live.com/download?resid=2DF3A6C17BCEDC5!783&authkey=!AM9BLTAt9vNZbEI&ithint=file%2capk
 com.blackberry.contacts|329|https://onedrive.live.com/download?resid=2DF3A6C17BCEDC5!785&authkey=!ANYtWGa2FEx46E4&ithint=file%2capk
 com.blackberry.hub|329|https://onedrive.live.com/download?resid=2DF3A6C17BCEDC5!784&authkey=!AOnkjlxel8MwKoQ&ithint=file%2capk
