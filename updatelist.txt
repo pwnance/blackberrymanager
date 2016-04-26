@@ -6,7 +6,7 @@ com.blackberry.hub|8398774|https://onedrive.live.com/download?resid=2DF3A6C17BCE
 com.blackberry.infrastructure|8425422|https://onedrive.live.com/download?resid=2DF3A6C17BCEDC5!798&authkey=!AEwAvjys0sQIurA&ithint=file%2capk
 com.blackberry.keyboard|24|https://onedrive.live.com/download?resid=2DF3A6C17BCEDC5!794&authkey=!ABtQE3Tkvq2ajBY&ithint=file%2capk
 com.blackberry.notes|8398774|https://onedrive.live.com/download?resid=2DF3A6C17BCEDC5!805&authkey=!AL__uekpHyvpfAE&ithint=file%2capk
-com.blackberry.passwordkeeper|11|https://onedrive.live.com/download?resid=2DF3A6C17BCEDC5!790&authkey=!AAPDoo3SHqWCrfw&ithint=file%2capk
+com.blackberry.passwordkeeper|19|https://onedrive.live.com/download?resid=2DF3A6C17BCEDC5!808&authkey=!AJujAZOks1xR5q4&ithint=file%2capk
 com.blackberry.tasks|8398774|https://onedrive.live.com/download?resid=2DF3A6C17BCEDC5!803&authkey=!ABFd9o2mUbwrOU8&ithint=file%2capk
 com.blackberry.universalsearch|11|https://onedrive.live.com/download?resid=2DF3A6C17BCEDC5!789&authkey=!AGt0Iv-U_-ZhmoA&ithint=file%2capk
 cobalt.blackberrymanager|13|https://raw.githubusercontent.com/cobalt232/blackberrymanager/gh-pages/cobalt.blackberrymanager.apk
