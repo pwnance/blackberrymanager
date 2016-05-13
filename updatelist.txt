@@ -1,4 +1,4 @@
-com.bbm|1853|https://onedrive.live.com/download?resid=2DF3A6C17BCEDC5!809&authkey=!AKsUcoFiNKASgxM
+com.bbm|1854|https://onedrive.live.com/download?resid=2DF3A6C17BCEDC5!816&authkey=!AFYTpCb9qxxuQ9w
 com.blackberry.blackberrylauncher|15|https://onedrive.live.com/download?resid=2DF3A6C17BCEDC5!795&authkey=!ACHuNcRzGhZ-4JA
 com.blackberry.calendar|8398829|https://onedrive.live.com/download?resid=2DF3A6C17BCEDC5!812&authkey=!AFATn5HJQI_Emsw
 com.blackberry.contacts|8398829|https://onedrive.live.com/download?resid=2DF3A6C17BCEDC5!815&authkey=!ANJ3JnaIpSvHGbE
