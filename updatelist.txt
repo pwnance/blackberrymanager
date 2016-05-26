@@ -1,10 +1,10 @@
 com.bbm|1854|https://onedrive.live.com/download?resid=2DF3A6C17BCEDC5!816&authkey=!AFYTpCb9qxxuQ9w
-com.blackberry.blackberrylauncher|15|https://onedrive.live.com/download?resid=2DF3A6C17BCEDC5!795&authkey=!ACHuNcRzGhZ-4JA
+com.blackberry.blackberrylauncher|20|https://onedrive.live.com/download?resid=2DF3A6C17BCEDC5!822&authkey=!AIuTCdUpr5dT0eA
 com.blackberry.calendar|8398829|https://onedrive.live.com/download?resid=2DF3A6C17BCEDC5!812&authkey=!AFATn5HJQI_Emsw
 com.blackberry.contacts|8398829|https://onedrive.live.com/download?resid=2DF3A6C17BCEDC5!815&authkey=!ANJ3JnaIpSvHGbE
 com.blackberry.hub|8398829|https://onedrive.live.com/download?resid=2DF3A6C17BCEDC5!813&authkey=!AE2WUGBs7qsuDu4
 com.blackberry.infrastructure|8425640|https://onedrive.live.com/download?resid=2DF3A6C17BCEDC5!814&authkey=!AKjblZav7QJESdo
-com.blackberry.keyboard|24|https://onedrive.live.com/download?resid=2DF3A6C17BCEDC5!794&authkey=!ABtQE3Tkvq2ajBY
+com.blackberry.keyboard|29|https://onedrive.live.com/download?resid=2DF3A6C17BCEDC5!821&authkey=!AIde70JzK89G5Nk
 com.blackberry.notes|8398829|https://onedrive.live.com/download?resid=2DF3A6C17BCEDC5!811&authkey=!ABtHmGqs9_2bDaA
 com.blackberry.passwordkeeper|19|https://onedrive.live.com/download?resid=2DF3A6C17BCEDC5!808&authkey=!AJujAZOks1xR5q4
 com.blackberry.tasks|8398829|https://onedrive.live.com/download?resid=2DF3A6C17BCEDC5!810&authkey=!AEBXfdsL_3EGB8c
