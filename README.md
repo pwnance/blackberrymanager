@@ -8,7 +8,7 @@ Features of Blackberry Manager:
  
 System Requirements:
 * You need Android 6.0 (Marshmallow) or better to run all BlackBerry apps on your device
-* BlackBerry Launcher, Keyboard and Password Keeper can run on Android 5.0 (Lollipop)
+* If your are using Android 5.x, only the latest compatible apps will be available for download
 
 <a href="http://cobalt232.github.io/blackberrymanager/">Download BlackBerry Manager</a>
 
