@@ -6,5 +6,9 @@ Features of Blackberry Manager:
 * Automatically notifies about available updates
 * Easy configuration dialog for enabling permissions (tap an app icon)
  
+System Requirements:
+* You need Android 6.0 (Marshmallow) or better to run all BlackBerry apps on your device
+* BlackBerry Launcher, BlackBerry Keyboard and BlackBerry Password Keeper can run on Lollipop
+
 <a href="http://cobalt232.github.io/blackberrymanager/">Download BlackBerry Manager</a>
 
