@@ -8,7 +8,7 @@ Features of Blackberry Manager:
  
 System Requirements:
 * Android 6.0 (Marshmallow) or better is required to run the latest versions of BlackBerry software
-* If running Android 5.x, BlackBerry Manager will install BlackBerry sofware which is dated April 2016
+* If running Android 5.x, BlackBerry Manager will install BlackBerry sofware dated April 2016
 
 <a href="http://cobalt232.github.io/blackberrymanager/">Download BlackBerry Manager</a>
 
