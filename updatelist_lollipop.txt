@@ -9,4 +9,4 @@ com.blackberry.notes|8398829|https://onedrive.live.com/download?resid=2DF3A6C17B
 com.blackberry.passwordkeeper|19|https://onedrive.live.com/download?resid=2DF3A6C17BCEDC5!808&authkey=!AJujAZOks1xR5q4
 com.blackberry.tasks|8398829|https://onedrive.live.com/download?resid=2DF3A6C17BCEDC5!810&authkey=!AEBXfdsL_3EGB8c
 com.blackberry.universalsearch|11|https://onedrive.live.com/download?resid=2DF3A6C17BCEDC5!817&authkey=!APn8TK8h2wmZaQI
-cobalt.blackberrymanager|15|https://raw.githubusercontent.com/cobalt232/blackberrymanager/gh-pages/cobalt.blackberrymanager.apk
+cobalt.blackberrymanager|16|https://raw.githubusercontent.com/cobalt232/blackberrymanager/gh-pages/cobalt.blackberrymanager.apk
