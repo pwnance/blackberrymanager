@@ -3,12 +3,12 @@ BlackBerry Manager provides an easy way to download and install BlackBerry apps 
 
 Features of Blackberry Manager:
 * Download and install pre-patched BlackBerry apps
-* Automatically notify when updates get available
+* Automatic notifications when updates get available
 * Easy to use permissions configuration dialog (tap app icon after installing an app)
  
 System Requirements:
-* You need Android 6.0 (Marshmallow) or better to run all BlackBerry apps on your device
-* If your are using Android 5.x, only the latest compatible app versions will be available for download
+* Android 6.0 (Marshmallow) or better is required to run the latest versions of BlackBerry software
+* If running Android 5.x, BlackBerry Manager will install BlackBerry sofware which is dated April 2016
 
 <a href="http://cobalt232.github.io/blackberrymanager/">Download BlackBerry Manager</a>
 
