@@ -1,6 +1,6 @@
 com.bbm|1854|https://onedrive.live.com/download?resid=B2DB7758C6E09E48!151&authkey=!APGmP5kXiVg37ms
 com.blackberry.blackberrylauncher|20|https://onedrive.live.com/download?resid=B2DB7758C6E09E48!152&authkey=!AKmexefkmHyxB8U
-com.blackberry.calendar|10496134|https://onedrive.live.com/download?resid=B2DB7758C6E09E48!154&authkey=!AEnXVVbyWwZUTfg
+com.blackberry.calendar|10496134|https://onedrive.live.com/download?resid=B2DB7758C6E09E48!150&authkey=!AJxf8vELjzpg3PY
 com.blackberry.contacts|10496134|https://onedrive.live.com/download?resid=B2DB7758C6E09E48!154&authkey=!AEnXVVbyWwZUTfg
 com.blackberry.hub|10496134|https://onedrive.live.com/download?resid=B2DB7758C6E09E48!153&authkey=!ANnvk_rkkHX0KNo
 com.blackberry.infrastructure|10523263|https://onedrive.live.com/download?resid=B2DB7758C6E09E48!160&authkey=!AE59pX8uy8CVnjg
