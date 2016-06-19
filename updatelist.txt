@@ -1,12 +1,1 @@
-com.bbm|1854|https://onedrive.live.com/download?resid=B2DB7758C6E09E48!151&authkey=!APGmP5kXiVg37ms
-com.blackberry.blackberrylauncher|20|https://onedrive.live.com/download?resid=B2DB7758C6E09E48!152&authkey=!AKmexefkmHyxB8U
-com.blackberry.calendar|10496134|https://onedrive.live.com/download?resid=B2DB7758C6E09E48!150&authkey=!AJxf8vELjzpg3PY
-com.blackberry.contacts|10496134|https://onedrive.live.com/download?resid=B2DB7758C6E09E48!154&authkey=!AEnXVVbyWwZUTfg
-com.blackberry.hub|10496134|https://onedrive.live.com/download?resid=B2DB7758C6E09E48!153&authkey=!ANnvk_rkkHX0KNo
-com.blackberry.infrastructure|10523263|https://onedrive.live.com/download?resid=B2DB7758C6E09E48!160&authkey=!AE59pX8uy8CVnjg
-com.blackberry.keyboard|29|https://onedrive.live.com/download?resid=B2DB7758C6E09E48!157&authkey=!ABGupQzTI8NuHQU
-com.blackberry.notes|10496134|https://onedrive.live.com/download?resid=B2DB7758C6E09E48!155&authkey=!ALdilsE5TnL0mGs
-com.blackberry.passwordkeeper|22|https://onedrive.live.com/download?resid=B2DB7758C6E09E48!156&authkey=!ABINMGLLVaIzQHU
-com.blackberry.tasks|10496134|https://onedrive.live.com/download?resid=B2DB7758C6E09E48!159&authkey=!AFbQ1bmDhjFu-Ic
-com.blackberry.universalsearch|15|https://onedrive.live.com/download?resid=B2DB7758C6E09E48!158&authkey=!ABBLdSqfkUZuxQs
-cobalt.blackberrymanager|19|https://raw.githubusercontent.com/cobalt232/blackberrymanager/gh-pages/cobalt.blackberrymanager.apk
+cobalt.blackberrymanager|20|https://raw.githubusercontent.com/cobalt232/blackberrymanager/gh-pages/cobalt.blackberrymanager.apk
