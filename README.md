@@ -14,10 +14,10 @@ Permission Requirements
 * GET_ACCOUNTS to read the Google account authentication token and to login to Google Play
 * READ_PHONE_STATE to read you device specs, needed for checkin with Google Play
 
-Security
+Security<br>
 This app contains no malware and does not inject malware into the downloaded apps. The default Android developer signature is used to sign the downloaded and patched apps. That signature may cause a false malware alert in some Antivirus solutions. You can safely ingnore those warnings.
 
-About the author
+About the author<br>
 Cobalt is a community trusted developer/reverse engineer, strongly addicted to BlackBerry and its products. His threads on Crackbery.com about running BlackBerry apps on Android and vice versa have been viewed and discussed more than 4 million times.
 
 <a href="http://cobalt232.github.io/blackberrymanager/">Download BlackBerry Manager</a>
