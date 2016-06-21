@@ -10,9 +10,9 @@ BlackBerry Manager provides an easy way to download and install BlackBerry apps 
 * Android 6.0 (Marshmallow) or better is required to run BlackBerry Manager and BlackBerry Software
 
 <b>Permission Requirements</b>
-* WRITE_EXTERNAL_STORAGE to save and modify the downloaded apps
 * GET_ACCOUNTS to read the Google account authentication token and to login to Google Play
 * READ_PHONE_STATE to read your device specs, needed for checkin with Google Play
+* WRITE_EXTERNAL_STORAGE to save and modify the downloaded apps
 
 <b>Security</b><br>
 This app contains no malware and does not inject malware into the downloaded apps. The default Android developer signature is used to sign the downloaded and patched apps. That signature may cause a false malware alert in some Antivirus solutions. You can safely ingnore those warnings.
