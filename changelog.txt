@@ -1,6 +1,6 @@
-&#8226; Support for NavKey patching of BlackBerry Launcher<br>
-&#8226; Added more information to the permissions dialog<br>
-&#8226; Install dialog now displays a short app description<br>
-&#8226; Update dialog now fetches changelog from Google Play<br>
-&#8226; Various optimizations
+- Support for NavKey patching of BlackBerry Launcher<br>
+- Added more information to the permissions dialog<br>
+- Install dialog now displays a short app description<br>
+- Update dialog now fetches changelog from Google Play<br>
+- Various optimizations
 
