@@ -1,4 +1,5 @@
 - Various bugfixes and optimizations<br>
 - Enhanced error handling in case of missing self permissions<br>
-- Enhanced error handling if Google account is missing on device<br> 
+- Enhanced error handling if Google account is missing on device<br>
+- New notification icon for status bar<br>
 - Code cleanup
