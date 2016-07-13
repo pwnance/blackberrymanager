@@ -1,6 +1,4 @@
-- Support for NavKey patching of BlackBerry Launcher<br>
-- Added more information to the permissions dialog<br>
-- Install dialog now displays a short app description<br>
-- Update dialog now fetches changelog from Google Play<br>
-- Various optimizations
-
+- Various bugfixes and optimizations<br>
+- Enhanced error handling in case of missing self permissions<br>
+- Enhanced error handling if Google account is missing on device<br> 
+- Code cleanup
