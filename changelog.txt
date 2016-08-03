@@ -1,5 +1,2 @@
-- Various bugfixes and optimizations<br>
-- Enhanced error handling in case of missing self permissions<br>
-- Enhanced error handling if Google account is missing on device<br>
-- New notification icon for status bar<br>
-- Code cleanup
+- Support for new BlackBerry Hub+ Services and all apps that need those services<br>
+- Uninstall any version of BlackBerry apps that you downloaded directly from Play Store and reboot your device before using the patched apps
