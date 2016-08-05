@@ -1,2 +1,2 @@
-- Support for new BlackBerry Hub+ Services and all apps that need those services<br>
-- Uninstall any version of BlackBerry apps that you downloaded directly from Play Store and reboot your device before using the patched apps
+- New look, inspired by BlackBerry Hub+ Services<br>
+- Various optimizations
