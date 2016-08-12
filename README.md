@@ -6,8 +6,10 @@ BlackBerry Manager provides an easy way to download and install BlackBerry apps 
 * Automatic notifications when updates are available
 * Easy to use permissions configuration dialog (tap app icon after installing an app)
  
-<b>System Requirements</b>
-* Android 6.0 (Marshmallow) or better is required to run BlackBerry Manager and BlackBerry Software
+<b>System Requirements to run BlackBerry apps</b>
+* Android 6.0 (Marshmallow) or better
+* 2 GB or more of RAM and a screen density between 420 and 640 dpi
+* Tablets are not (yet) supported
 
 <b>Permission Requirements</b>
 * GET_ACCOUNTS to read the Google account authentication token and to login to Google Play
