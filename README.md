@@ -1,5 +1,5 @@
 # BlackBerry Manager
-BlackBerry Manager provides an easy way to download and install BlackBerry apps on your Android device. Enjoy BlackBerry Hub, BlackBerry Keyboard and many other BlackBerry apps without the need of rooting your phone.
+BlackBerry Manager provides an easy way to download, install and update BlackBerry apps on your Android device. Discover BlackBerry's Message Hub and experience other apps made by BlackBerry such as Calendar, Contacts, Keyboard, Launcher and more.
 
 <b>Features of Blackberry Manager</b>
 * Download BlackBerry apps from Play Store and patch them on the fly
