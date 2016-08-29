@@ -1,3 +1,3 @@
-- Added compatibility fix for Android N<br>
-- New about dialog<br>
-- Various optimizations
+- Enhanced error handling to prevent issues with BlackBerry apps that have been installed directly from Play Store <br>
+- Feature to remove advertising, check the about dialog<br>
+- Various code optimizations
