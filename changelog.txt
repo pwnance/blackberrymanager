@@ -1,3 +1,6 @@
-- Enhanced error handling to prevent issues with BlackBerry apps that have been installed directly from Play Store<br>
-- New feature in About dialog to remove advertising from BlackBerry apps<br>
-- Various code optimizations
+- Support for Android 5.0<br>
+- Support for latest release of BlackBerry Hub+ Services<br>
+- New option to switch Google Account<br>
+- New App details dialog<br>
+- Apps that have been installed directly from Play Store are not displayed in the list<br>
+- Various optimizations
