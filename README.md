@@ -16,7 +16,7 @@ BlackBerry Manager provides an easy way to download, install and update BlackBer
 * READ_PHONE_STATE to read your device specs, needed to checkin with Google Play
 * WRITE_EXTERNAL_STORAGE to save and modify the downloaded apps
 
-<b>Installation</b>
+<b>Installation</b><br>
 Either install all apps from BlackBerry Manager (full functionality) or install all apps from Play Store (subscription required after 30 days). The Keyboard can be used in both scenarios. BlackBerry Manager automatically hides apps that have been installed directly from Play Store, because they are not signature compatible. To use all apps from BlackBerry Manager, you first have to uninstall the versions that you downloaded directly from Play Store.
 
 <b>Security</b><br>
