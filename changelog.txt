@@ -1,3 +1,6 @@
-- HOTFIX for Password keeper not being patched after download<br>
-- New uninstall dialog for BlackBerry Hub+ Services and BlackBerry Launcher
+- Updated patching sequences for BlackBerry PIM-Suite 1.4<br>
+- New verification to protect user from installing non working updates<br>
+- New battery saving options for Hub and Hub+<br>
+- New configuration options for Keyboard<br>
+- Various fixes and optimizations
 
