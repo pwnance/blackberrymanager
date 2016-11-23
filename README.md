@@ -2,7 +2,7 @@
 BlackBerry Manager provides an easy way to download, install and update ad-free BlackBerry apps on your Android device. Discover BlackBerry's Message Hub and experience other apps made by BlackBerry such as Calendar, Contacts, Keyboard, Launcher and more.
 
 <b>Features of Blackberry Manager</b>
-* Downloads ad-free BlackBerry apps from Play Store, including the normally non-available Keyboard
+* Download ad-free BlackBerry apps from Play Store, including the normally non-available Keyboard
 * Automatic notifications when updates are available
 * Easy to use permissions configuration dialog (tap app icon after installing an app)
  
