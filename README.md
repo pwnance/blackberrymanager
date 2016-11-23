@@ -1,8 +1,8 @@
 # BlackBerry Manager
-BlackBerry Manager provides an easy way to download, install and update BlackBerry apps on your Android device. Discover BlackBerry's Message Hub and experience other apps made by BlackBerry such as Calendar, Contacts, Keyboard, Launcher and more.
+BlackBerry Manager provides an easy way to download, install and update ad-free BlackBerry apps on your Android device. Discover BlackBerry's Message Hub and experience other apps made by BlackBerry such as Calendar, Contacts, Keyboard, Launcher and more.
 
 <b>Features of Blackberry Manager</b>
-* Download BlackBerry apps from Play Store and patch them on the fly
+* Downloads ad-free BlackBerry apps from Play Store, including the normally non available Keyboard
 * Automatic notifications when updates are available
 * Easy to use permissions configuration dialog (tap app icon after installing an app)
  
@@ -17,7 +17,7 @@ BlackBerry Manager provides an easy way to download, install and update BlackBer
 * WRITE_EXTERNAL_STORAGE to save and modify the downloaded apps
 
 <b>Installation</b><br>
-Either install all apps from BlackBerry Manager (full functionality) or install all apps from Play Store (subscription required after 30 days). The Keyboard can be used in both scenarios. BlackBerry Manager automatically hides apps that have been installed directly from Play Store, because they are not signature compatible. To use all apps from BlackBerry Manager, you first have to uninstall the versions that you downloaded directly from Play Store.
+Either install all apps from BlackBerry Manager (full functionality, no ads) or install all apps from Play Store (subscription required after 30 days). The Keyboard can be used in both scenarios. BlackBerry Manager automatically hides apps that have been installed directly from Play Store, because they are not signature compatible. To use all apps from BlackBerry Manager, you first have to uninstall the versions that you downloaded directly from Play Store.
 
 <b>Security</b><br>
 This app contains no malware and does not inject malware into the downloaded apps. The default Android developer signature is used to sign the downloaded and patched apps. That signature may cause a false malware alert in some Antivirus solutions. You can safely ingnore those warnings.
