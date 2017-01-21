@@ -1,6 +1,3 @@
-- Enhanced patching engine<br>
-- Updated settings dialog for BlackBerry Keyboard<br>
-- New compatibility patch for BlackBerry Keyboard on Samsung S7<br>
-- Tapping the open button on BlackBerry Keyboard now displays the settings dialog<br>
-- Progress information is now displayed during patching<br>
-- Various code optimizations
+- Updated, lightning fast patching engine that reduces patching time by factor 150<br>
+- New keyboard testing option in keyboard settings dialog. Talk to chromsky, the friendly chatbot<br>
+- Various minor code optimizations
