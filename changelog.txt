@@ -1,3 +1,3 @@
-- Updated, lightning fast patching engine that reduces patching time by factor 150<br>
-- New keyboard testing option in keyboard settings dialog. Talk to chromsky, the friendly chatbot<br>
-- Various minor code optimizations
+- BlackBerry Notable app now available for download (thanks Mecca EL)<br>
+- Update notifications now display the number of available updates<br>
+- Fixed a potential bug in the patching engine 
