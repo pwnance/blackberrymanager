@@ -1,3 +1,2 @@
-- BlackBerry Notable app now available for download (thanks Mecca EL)<br>
-- Update notifications now display the number of available updates<br>
-- Fixed a potential bug in the patching engine 
+- Updated patching sequences to support BlackBerry Hub+ 1.5.1.43617 and higher<br>
+- Minor optimizations
