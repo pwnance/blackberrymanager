@@ -1,2 +1,6 @@
-- Updated patching sequences for Hub+ 1.5.1.43617 and higher<br>
-- Minor optimizations
+- Added "BlackBerry Privacy Shade" to the list of installable apps<br>
+- Multiple app updates can be downloaded and installed at once (user interaction is required to accept installation request)<br>
+- Backup feature for all installed BlackBerry apps. Use this feature to backup your apps before updating them to newer versions. The apps are saved in the folder \BlackberryManager\backup. Please note that app settings are not saved.<br>
+- Navigation drawer replaces the classic options menu. Swipe from left to right or tap the hamburger icon on top left to see the new navigation<br>
+- Updated help content<br>
+- Various minor code optimizations
