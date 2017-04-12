@@ -14,7 +14,7 @@ BlackBerry Manager provides an easy way to download, install and update ad-free 
 
 <b>Permission Requirements</b>
 * GET_ACCOUNTS to read the Google account authentication token and to login to Google Play
-* WRITE_EXTERNAL_STORAGE to save and modify the downloaded apps
+* WRITE_EXTERNAL_STORAGE to save the downloaded apps to your SD card
 
 <b>Installation</b><br>
 Either install all apps from BlackBerry Manager (full functionality, no ads) or install all apps from Play Store (subscription required after 30 days). The Keyboard can be used in both scenarios. BlackBerry Manager automatically hides apps that have been installed directly from Play Store, because they are not signature compatible. To use all apps from BlackBerry Manager, you first have to uninstall the versions that you downloaded directly from Play Store.
