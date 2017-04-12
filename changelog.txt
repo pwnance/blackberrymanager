@@ -2,7 +2,7 @@
 <b>Enhanced security</b><br>
 BlackBerry Manager no longer requires the permission android.permission.READ_PHONE_STATE.<br>
 <br>
-<b>Multiple updates</b><br>
+<b>Changelog for multiple updates</b><br>
 The changelog for all apps is displayed if updating multiple apps at the same time using the navigation drawer update feature.<br>
 <br>
 <b>Save images to gallery</b><br>
