@@ -1,6 +1,11 @@
-- Added "BlackBerry Privacy Shade" to the list of installable apps<br>
-- Multiple app updates can be downloaded and installed at once (user interaction is required to accept installation request)<br>
-- Backup feature for all installed BlackBerry apps. Use this feature to backup your apps before updating them to newer versions. The apps are saved in the folder \BlackberryManager\backup. Please note that app settings are not saved.<br>
-- Navigation drawer replaces the classic options menu. Swipe from left to right or tap the hamburger icon on top left to see the new navigation<br>
-- Updated help content<br>
-- Various minor code optimizations
+<b>Enhanced security</b><br>
+BlackBerry Manager no longer requires the permission android.permission.READ_PHONE_STATE.<br>
+<br>
+<b>Multiple updates</b><br>
+If updating multiple apps at the same time using the navigation drawer update feature, the changelogs for all apps are displayed.<br>
+<br>
+<b>Save images to gallery</b><br>
+Save an image to your gallery by choosing BlackBerry Manager as default sharing target. This new feature is intented for use with BlackBerry Notable, but also works together with other apps.<br>
+<br>
+<b>Various optimizations</b><br>
+Fixed Chromsky Chatbot API in the Keyboard test dialog. Minor user interface changes.
