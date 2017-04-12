@@ -3,7 +3,7 @@
 BlackBerry Manager no longer requires the permission android.permission.READ_PHONE_STATE.<br>
 <br>
 <b>Multiple updates</b><br>
-If updating multiple apps at the same time using the navigation drawer update feature, the changelogs for all apps are displayed.<br>
+The changelog for all apps is displayed if updating multiple apps at the same time using the navigation drawer update feature.<br>
 <br>
 <b>Save images to gallery</b><br>
 Save an image to your gallery by choosing BlackBerry Manager as default sharing target. This new feature is intented for use with BlackBerry Notable, but also works together with other apps.<br>
