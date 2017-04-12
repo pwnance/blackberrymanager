@@ -1,3 +1,4 @@
+<br>
 <b>Enhanced security</b><br>
 BlackBerry Manager no longer requires the permission android.permission.READ_PHONE_STATE.<br>
 <br>
