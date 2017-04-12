@@ -1,1 +1,0 @@
-cobalt.blackberrymanager|40|https://raw.githubusercontent.com/cobalt232/blackberrymanager/gh-pages/cobalt.blackberrymanager.apk
