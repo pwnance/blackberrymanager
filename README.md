@@ -14,7 +14,6 @@ BlackBerry Manager provides an easy way to download, install and update ad-free 
 
 <b>Permission Requirements</b>
 * GET_ACCOUNTS to read the Google account authentication token and to login to Google Play
-* READ_PHONE_STATE to read your device specs, needed to checkin with Google Play
 * WRITE_EXTERNAL_STORAGE to save and modify the downloaded apps
 
 <b>Installation</b><br>
