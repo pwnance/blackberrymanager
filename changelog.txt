@@ -1,12 +1,12 @@
 <br>
-<b>Enhanced security</b><br>
-BlackBerry Manager no longer requires the permission android.permission.READ_PHONE_STATE.<br>
+<b>Support for PIM-suite 1.5.3.</b><br>
+New compatibility fix for the latest beta of the BlackBerry PIM-suite.<br>
 <br>
-<b>Changelog for multiple updates</b><br>
-The changelog for all apps is displayed if updating multiple apps at the same time using the navigation drawer update feature.<br>
+<b>BlackBerry Messenger</b><br>
+BlackBerry Messenger is now available in the list of downloadable apps.<br>
 <br>
-<b>Save images to gallery</b><br>
-Save an image to your gallery by choosing BlackBerry Manager as default sharing target. This new feature is intented for use with BlackBerry Notable, but also works together with other apps.<br>
+<b>Update all feature</b><br>
+Improved file sanity check to prevent unnecessary redownload of all apps if BlackBerry Manager was closed during a download session.<br>
 <br>
 <b>Various optimizations</b><br>
-Fixed Chromsky Chatbot API in the Keyboard test dialog. Minor user interface changes.
+Minor code optimizations.
