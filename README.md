@@ -21,19 +21,20 @@ BlackBerry Manager provides an easy way to download, install and update ad-free 
 
 <b>Installation</b><br>
 Full install:
+* Uninstall all original/unmodified BlackBerry apps
 * Install BlackBerry Manager. Then install all BlackBerry apps with BlackBerry Manager
 
 Partial install:
-* Install the BlackBerry apps from Play Store (subscription required after 30 days) 
+* Install the BlackBerry apps from Play Store (subscription required after 30 days to remove advertising) 
 * Install BlackBerry Manager and then install the missing apps (i.e. the Keyboard) with BlackBerry Manager
 
-If the partial install method is used, BlackBerry Manager hides apps that have been installed directly from Play Store, because they are not signature compatible. To use all apps from BlackBerry Manager, you first have to uninstall the versions that you downloaded directly from Play Store.
+If the partial install method is used, BlackBerry Manager hides apps that have been installed directly from Play Store, because they are not signature compatible. To use all apps from BlackBerry Manager, use the full install method.
 
 <b>Security</b><br>
 This app contains no malware and does not inject malware into the downloaded apps. The default Android developer signature is used to sign the downloaded and patched apps. That signature may cause a false malware alert in some Antivirus solutions. You can safely ingnore such warnings.
 
 <b>About the author</b><br>
-Cobalt is a community trusted developer/reverse engineer, strongly dedicated to BlackBerry and its products. His threads on CrackBerry.com about running BlackBerry apps on Android and vice versa have been viewed and discussed more than 5 million times.
+Cobalt is a community trusted developer/reverse engineer, strongly dedicated to BlackBerry and its products. His threads on CrackBerry.com about running BlackBerry apps on Android and vice versa have been viewed and discussed more than 6 million times.
 
 <a href="http://cobalt232.github.io/blackberrymanager/">Download BlackBerry Manager</a>
 
