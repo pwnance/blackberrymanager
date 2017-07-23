@@ -19,6 +19,9 @@ BlackBerry Manager provides an easy way to download, install and update ad-free 
 * GET_ACCOUNTS to read the Google account authentication token and to login to Google Play
 * WRITE_EXTERNAL_STORAGE to save the downloaded apps to your SD card
 
+<b>Why is BlackBerry Manager asking for Contacts permission?</b>
+The GET_ACCOUNTS permissions belongs to the permission group android.permission-group.CONTACTS. Since Android 6.0 (SDK 23), Android permissions are placed under different groups and all permissions from that group would be granted if one of them is granted. However, BlackBerry Manager does NOT access your contacts in any way. To learn more about Android permissions, read the <a href="https://developer.android.com/about/versions/marshmallow/android-6.0.html">Google developer documentation</a>.
+
 <b>Installation</b><br>
 Full install:
 * Uninstall all original/unmodified BlackBerry apps
