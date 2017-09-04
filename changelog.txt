@@ -6,4 +6,4 @@
 * BlackBerry Notable is now also installable for users that have a Play Store subscription of Hub+<br>
 * Rearranged the Hub+ suite icons in a more logical way<br>
 * New update button at top of listview when updates are available<br>
-* Various code optimizations.
+* Various code optimizations
