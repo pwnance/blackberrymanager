@@ -1,12 +1,9 @@
 <br>
-<b>Support for PIM-suite 1.5.3.</b><br>
-New compatibility fix for the latest beta of the BlackBerry PIM-suite.<br>
-<br>
-<b>BlackBerry Messenger</b><br>
-BlackBerry Messenger is now available in the list of downloadable apps.<br>
-<br>
-<b>Update all feature</b><br>
-Improved file sanity check to prevent unnecessary redownload of all apps if BlackBerry Manager was closed during a download session.<br>
-<br>
-<b>Various optimizations</b><br>
-Minor code optimizations.
+<b>Maintenance release</b><br>
+* Reworked Play Store api to fix downloading problems<br>
+* Enhanced patcher and improved overall processing speed<br>
+* Reworked backup feature to backup BlackBerry apk's<br>
+* BlackBerry Notable is now also installable for users that have a Play Store subscription of Hub+<br>
+* Rearranged the Hub+ suite icons in a more logical way<br>
+* New update button at top of listview when updates are available<br>
+* Various code optimizations.
