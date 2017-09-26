@@ -3,4 +3,4 @@
 * Updated Play Store api<br>
 * Various code optimizations<br>
 <br>
-If BlackBerry Manager crashed when trying to update, you need to reinstall the app from http://cobalt232.github.io/blackberrymanager
+If BlackBerry Manager is crashing when trying to update, you need to reinstall the app from http://cobalt232.github.io/blackberrymanager
