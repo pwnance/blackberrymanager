@@ -1,9 +1,3 @@
-<br>
-<b>Maintenance release</b><br>
-* Reworked Play Store api to fix downloading problems<br>
-* Enhanced patcher and improved overall processing speed<br>
-* Reworked backup feature to backup BlackBerry apk's<br>
-* BlackBerry Notable is now also installable for users that have a Play Store subscription of Hub+<br>
-* Rearranged the Hub+ suite icons in a more logical way<br>
-* New update button at top of listview when updates are available<br>
+* Updated patching sequences for BlackBerry Hub+ 1.5.6.47271<br>
+* Updated Play Store api<br>
 * Various code optimizations
