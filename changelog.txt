@@ -1,3 +1,4 @@
 * Updated patching sequences for BlackBerry Hub+ 1.5.6.47271<br>
+* Fixed a potential bug that could break selfupdate feature<br>
 * Updated Play Store api<br>
 * Various code optimizations
