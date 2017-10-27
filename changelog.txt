@@ -1,8 +1,9 @@
 * Updated patching sequences for BlackBerry Messenger 3.3.9.130<br>
 * You can now swipe down in the listView to search for updates<br>
+* During patching the screen stays on to prevent doze mode from interrupting the patching process<br>
 * BlackBerry Manager has a new app icon<br>
-* Minor GUI changes<br>
-* Hidden feature. In the Keyboard test dialog, type doc=com.packagename and tap enter to download any app from Play Store<br>
+* Hidden feature: In the Keyboard test dialog, type doc=com.packagename and tap enter to download any app from Play Store<br>
+* Minor GUI and code optimizations<br>
 <br>
 <b>
 If BlackBerry Manager is crashing when trying to update, you need to reinstall BlackBerry Manager. Tap "about this app" in the navigation view and then tap the BlackBerry Manager icon to go to the download site.
