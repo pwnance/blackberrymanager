@@ -24,8 +24,9 @@ Since Android 6.0 (SDK 23), Android permissions are placed under different group
 
 <b>Installation</b><br>
 Full install:
-* Uninstall all original/unmodified BlackBerry apps
+* Uninstall all original/unmodified BlackBerry apps from Play Store
 * Install BlackBerry Manager. Then install all BlackBerry apps with BlackBerry Manager
+* Do NOT run Hub+ Services to install apps from there
 
 Partial install:
 * Install the BlackBerry apps from Play Store (subscription required after 30 days to remove advertising) 
