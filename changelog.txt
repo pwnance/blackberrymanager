@@ -1,5 +1,6 @@
 * BlackBerry Manager now targets Android Oreo. It remains backwards compatible to Lollipop<br>
 * Device emulation updated from BlackBerry Priv to BlackBerry KeyOne<br>
+* Running downloads can now correctly be cancelled in the Android notification area (swipe down from top to access)<br>
 * Fixed a bug in the downloader ("File not available" error)<br>
 * Updated patching engine<br>
 * Updated Google Play Api<br>
