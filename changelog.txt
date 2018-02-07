@@ -1,13 +1,11 @@
-* BlackBerry Manager now targets Android Oreo. It remains backwards compatible to Lollipop<br>
-* Device emulation updated from BlackBerry Priv to BlackBerry KeyOne<br>
-* Running downloads can now correctly be cancelled in the Android notification area (swipe down from top to access)<br>
-* Fixed a bug in the downloader ("File not available" error)<br>
-* Updated patching engine<br>
-* Updated Google Play Api<br>
-* Various bufgixes and code optimizations<br>
+* BlackBerry Keyboard 3.2.14279 is now supported<br>
+* BlackBerry Hub+ Services 1.5.8.45960 has updated patching sequences<br>
+* New option in side navigation to clear download cache<br>
+* Enhanced self permissions management<br>
+* Various code optimizations<br>
 <br>
-<b>IMPORTANT: Please perform a re-checkin to register the new device emulation with Google Play</b><br>
+<b>IMPORTANT: Please repair your Hub+ Services with the repair feature to apply the new patch</b><br>
 Step by Step instruction:<br>
-1. Swipe from left to right to open the menu<br>
-2. Choose Check-in at Google Play<br>
-3. Tap CHECK-IN<br>
+1. Tap the 3 dots on the BlackBerry Hub+ list item<br>
+2. Choose 'repair installation'<br>
+
