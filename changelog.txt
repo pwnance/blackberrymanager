@@ -1,5 +1,5 @@
-* BlackBerry Keyboard 3.2.14279 is now supported<br>
-* BlackBerry Hub+ Services 1.5.8.45960 has updated patching sequences<br>
+* Updated patching sequences for BlackBerry Keyboard 3.2.14279<br>
+* Updated patching sequences for BlackBerry Hub+ Services 1.5.8.45960<br>
 * New option in side navigation to clear download cache<br>
 * Enhanced self permissions management<br>
 * Various code optimizations<br>
