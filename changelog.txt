@@ -3,9 +3,3 @@
 * New option in side navigation to clear download cache<br>
 * Enhanced self permissions management<br>
 * Various code optimizations<br>
-<br>
-<b>IMPORTANT: Please repair your Hub+ Services with the repair feature to apply the new patch</b><br>
-Step by Step instruction:<br>
-1. Tap the 3 dots on the BlackBerry Hub+ list item<br>
-2. Choose 'repair installation'<br>
-
