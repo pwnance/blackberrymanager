@@ -1,3 +1,4 @@
-* Fix for BlackBerry Keyboard 3.2.x to support armeabi-v7a architecture<br>
-* Updated Google authenticator<br>
+* Updated patching sequences for Hub suite 1.6.x<br>
+* Updated patching engine with fix for with jumbo string index<br>
+* Removed Content Transfer app from app list (seems to be discontinued)<br>
 * Various bugfixes and optimizations<br>
