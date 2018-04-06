@@ -1,4 +1,4 @@
 * Updated patching sequences for Hub suite 1.6.x<br>
-* Updated patching engine with fix for with jumbo string index<br>
+* Updated patching engine with fix for jumbo string index<br>
 * Removed Content Transfer app from app list (seems to be discontinued)<br>
 * Various bugfixes and optimizations<br>
