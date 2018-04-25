@@ -1,3 +1,4 @@
-* Fix for Play API bulk details request<br>
+* Fix for Play API change (bulk details request)<br>
+* Fix for slow fetching of updatelist on startup<br>
 * Fix for Listview not refreshing on Android Oreo after installing or removing an app<br>
 * Various bugfixes and optimizations<br>
