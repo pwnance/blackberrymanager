@@ -38,6 +38,6 @@ If the partial install method is used, BlackBerry Manager hides apps that have b
 This app contains no malware and does not inject malware into the downloaded apps. The default Android developer signature is used to sign the downloaded and patched apps. That signature may cause a false malware alert in some Antivirus solutions. You can safely ingnore such warnings.
 
 <b>About the author</b><br>
-Cobalt is a <a href="http://www.dailyherald.com/article/20160625/business/160629372/">community trusted</a>  developer/reverse engineer, strongly dedicated to BlackBerry and its products</a>. His threads on CrackBerry.com about running BlackBerry apps on Android and vice versa have been viewed and discussed more than 6 million times.
+Cobalt is a <a href="http://www.dailyherald.com/article/20160625/business/160629372/">community trusted developer/reverse engineer, strongly dedicated to BlackBerry and its products</a>. His threads on CrackBerry.com about running BlackBerry apps on Android and vice versa have been viewed and discussed more than 6 million times.
 
 <a href="http://cobalt232.github.io/blackberrymanager/">Download BlackBerry Manager</a>
