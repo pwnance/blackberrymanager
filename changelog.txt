@@ -1,4 +1,5 @@
+* BlackBerry Manager now targets Android Pie (SDK 28)
 * Updated patching engine<br>
-* Fix for update version not being displayed<br>
+* Fix for version not being displayed on updates<br>
 * Removed BlackBerry Messenger until a fix is available<br>
 * Various optimizations<br>
