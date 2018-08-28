@@ -1,3 +1,4 @@
 * Updated patching engine<br>
 * Fix for update version not being displayed<br>
+* Removed BlackBerry Messenger until a fix is available<br>
 * Various optimizations<br>
