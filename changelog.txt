@@ -1,4 +1,4 @@
 * Updated app icons for Hub+ suite apps<br>
 * Updated patches for BlackBerry Keyboard and BlackBerry Password Keeper<br>
-* Beta versions now are labled as beta (only if you are a beta tester)<br>
+* Beta versions now are labeled as beta (only if you are a beta tester)<br>
 * Various optimizations and fixes<br>
