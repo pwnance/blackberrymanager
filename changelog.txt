@@ -1,6 +1,3 @@
-* New: BlackBerry Messenger is back<br>
-* New: Option to patch BlackBerry apps from alternative source (i.e. APK Mirror)<br>
-* Updated app icons for Hub+ suite apps<br>
-* Updated patches for BlackBerry Keyboard and BlackBerry Password Keeper<br>
-* Beta versions now are labeled as beta (only if you are a beta tester)<br>
-* Various optimizations and fixes<br>
+* Updated patch for Keyboard 4.1.x beta<br>
+* Updated app icon for Keyboard<br>
+* Various optimizations<br>
