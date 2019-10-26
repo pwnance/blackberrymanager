@@ -7,13 +7,16 @@ BlackBerry Manager provides an easy way to download, install and update ad-free 
 * Run the apps without advertising (no subscription required)
 * Automatic notifications when updates are available
  
-<b>System Requirements to run BlackBerry apps</b>
+<b>System requirements to run BlackBerry apps</b>
 * Android 5.0 (Lollipop) or better
 * 2 GB or more of RAM and a screen density between 420 and 640 dpi
 * 512 MB of free space on the internal SD card
 * Tablets are partially supported
 * Google Play Services must be installed on the device
 * Installation of foreign apps must be enabled in Android settings
+
+<b>Special requirements to run BlackBerry keyboard</b>
+* BlackBerry Keyboard only works on arm64-v8a architecture
 
 <b>Special Permission Requirements</b>
 * GET_ACCOUNTS to read the Google account authentication token and to login to Google Play
