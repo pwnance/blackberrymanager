@@ -1,3 +1,2 @@
-* Updated patch for Keyboard 4.1.x beta<br>
-* Updated app icon for Keyboard<br>
-* Various optimizations<br>
+* Minor changes to the graphical user interface<br>
+* Various bugfixes & optimizations<br>
