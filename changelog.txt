@@ -1,2 +1,2 @@
-* Minor changes to the graphical user interface<br>
-* Various bugfixes & optimizations<br>
+* Improved repacking and signing of patched apps<br>
+* Various bugfixes and optimizations<br>
