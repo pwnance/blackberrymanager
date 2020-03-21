@@ -1,12 +1,5 @@
 # BlackBerry Manager
-BlackBerry Manager provides an easy way to download, install and update ad-free BlackBerry apps on your Android device. Discover BlackBerry's Message Hub and experience other apps made by BlackBerry such as Calendar, Contacts, Keyboard, Launcher and more.
 
-<b>Features of Blackberry Manager</b>
-* Install BlackBerry apps on any device, even if the device is not listed as compatible on Play Store
-* Access to the BlackBerry exclusive Keyboard
-* Run the apps without advertising (no subscription required)
-* Automatic notifications when updates are available
- 
 <b>System requirements to run BlackBerry apps</b>
 * Android 5.0 (Lollipop) or better
 * 2 GB or more of RAM and a screen density between 420 and 640 dpi
